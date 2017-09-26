@@ -137,7 +137,6 @@ void ParseController(char* text) {
           else if (text[i] == '0') {
             CL = false;
           }
-
           break;
       }
     }
